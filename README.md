@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Froot Middle Asia (Part Time Beam Company)
-- 🌱 I’m currently learning NextJS, TailwindCSS
-- 🤔 I’m looking for help with
+- 🔭 I’m currently working on BTS Digital (Aitu City)
+- 🌱 I’m currently learning DevOps
 - 💬 Ask me about anything...
 - 📫 How to reach me: nurtylek98@gmail.com
-- 😄 Pronouns: ahhahahahha
 - ⚡ Fun fact: here we go
