@@ -4,4 +4,4 @@
 - 🌱 I’m currently preparing for interviews
 - 💬 Ask me about anything...
 - 📫 How to reach me: nurtylek98@gmail.com
-- ⚡ Fun fact: could't get into BigTech even now
+- ⚡ Fun fact: couldn't get into BigTech even now
