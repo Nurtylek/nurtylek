@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BTS Digital (Aitu City)
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on BTS Digital
+- 🌱 I’m currently preparing for interviews
 - 💬 Ask me about anything...
 - 📫 How to reach me: nurtylek98@gmail.com
-- ⚡ Fun fact: here we go
+- ⚡ Fun fact: could't get into BigTech even now
